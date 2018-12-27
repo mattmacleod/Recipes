@@ -16,6 +16,7 @@ Please enjoy!
   - [Gluten-free chocolate brownies](./Cakes%20and%20baking/Gluten-free%20chocolate%20brownies.md)
   - [Italian-style Bakewell tart](./Cakes%20and%20baking/Italian-style%20Bakewell%20tart.md)
   - [Cinnamon rolls](./Cakes%20and%20baking/Cinnamon%20rolls.md)
+  - [Sausage rolls](./Cakes%20and%20baking/Sausage%20Rolls.md)
 - Desserts and puddings
   - [Christmas pudding](./Desserts%20and%20puddings/Christmas%20pudding.md)
   - [Chocolate pudding](./Desserts%20and%20puddings/Chocolate%20pudding.md)
