@@ -32,6 +32,7 @@ Please enjoy!
   - [Flaky Pastry](./Misc/Flaky%20Pastry.md)
 - Sauces and dips
   - [Hot artichoke dip](./Sauces%20and%20dips/Hot%20artichoke%20dip.md)
+  - [Warm Tomato Mozzarella Dip](./Warm%20Tomato%20Mozzarella%20Dip.md)
   - [Tomato Chutney](./Sauces%20and%20dips/Tomato%20Chutney.md)
 - Soups
   - [Mushroom soup](./Soups/Mushroom%20soup.md)
