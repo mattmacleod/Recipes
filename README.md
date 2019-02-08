@@ -11,6 +11,7 @@ Please enjoy!
 - Breads
   - [Cheese and garlic tear-and-share](./Breads/Cheese%20and%20garlic%20tear-and-share.md)
   - [Estonian Kringle](./Breads/Kringle.md)
+  - [Pretzels](./Breads/Pretzels.md)
   - [Sourdough](./Breads/Sourdough.md)
   - [Sourdough Pizza Bases](./Breads/Sourdough%20Pizza%20Bases.md)
 - Cakes and baking
