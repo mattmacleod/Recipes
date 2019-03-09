@@ -29,6 +29,7 @@ Please enjoy!
   - [Mushroom Bourguignon](./Mains/Mushroom%20Bourguignon.md)
   - [Salmon En Croute](./Mains/Salmon%20En%20Croute.md)
   - [Roast Chicken with Chorizo Stuffing](./Mains/Roast%20Chicken%20with%20Chorizo%20Stuffing.md)
+  - [Beef Brisket Chilli](./Mains/Brisket%20Chilli.md)
 - Misc
   - [Flour Tortillas](./Misc/Flour%20Tortillas.md)
   - [Flaky Pastry](./Misc/Flaky%20Pastry.md)
