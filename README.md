@@ -34,6 +34,8 @@ Please enjoy!
 - Misc
   - [Flour Tortillas](./Misc/Flour%20Tortillas.md)
   - [Flaky Pastry](./Misc/Flaky%20Pastry.md)
+- Salads
+  - [Mango and couscous salad](./Salads/Mango%and%20couscous%20salad.md)
 - Sauces and dips
   - [Hot artichoke dip](./Sauces%20and%20dips/Hot%20artichoke%20dip.md)
   - [Warm Tomato Mozzarella Dip](./Warm%20Tomato%20Mozzarella%20Dip.md)
