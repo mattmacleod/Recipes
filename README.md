@@ -11,6 +11,7 @@ Please enjoy!
 - Breads
   - [Cheese and garlic tear-and-share](./Breads/Cheese%20and%20garlic%20tear-and-share.md)
   - [Estonian Kringle](./Breads/Kringle.md)
+  - [Naan](./Breads/Naan.md)
   - [Pretzels](./Breads/Pretzels.md)
   - [Sourdough](./Breads/Sourdough.md)
   - [Sourdough Pizza Bases](./Breads/Sourdough%20Pizza%20Bases.md)
@@ -31,6 +32,8 @@ Please enjoy!
   - [Roast Chicken with Chorizo Stuffing](./Mains/Roast%20Chicken%20with%20Chorizo%20Stuffing.md)
   - [Beef Brisket Chilli](./Mains/Brisket%20Chilli.md)
   - [Fried Seitan](./Mains/Fried%20Seitan.md)
+  - [Giant Meatballs](./Mains/Giant%20Meatballs.md)
+  - [Gujarati Makai Sabji](./Mains/Gujarati%20Makai%20Sabji.md)
 - Misc
   - [Flour Tortillas](./Misc/Flour%20Tortillas.md)
   - [Flaky Pastry](./Misc/Flaky%20Pastry.md)
