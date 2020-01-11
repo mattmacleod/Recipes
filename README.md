@@ -23,6 +23,7 @@ Please enjoy!
 - Desserts and puddings
   - [Christmas pudding](./Desserts%20and%20puddings/Christmas%20pudding.md)
   - [Chocolate pudding](./Desserts%20and%20puddings/Chocolate%20pudding.md)
+  - [Negroni Cheesecake](./Desserts%20and%20puddings/Negroni%20Cheesecake.md)
 - Mains
   - [Steak Pie](./Mains/Steak%20Pie.md)
   - [Vegetable Curry](./Mains/Vegetable%20Curry.md)
