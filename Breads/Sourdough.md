@@ -51,6 +51,8 @@
 
 8. Transfer rounds to the prepared baskets, seam-side up. Cover and return to the warm environment for another three to four hours, or alternatively leave in the fridge for 10-12 hours.
 
-12. Pre-heat the over 30 minutes before baking. Use a dutch over or other heavy, lidded pot, and heat to 260C or as close as you can get. Dust the loaves in the baskets with a little more rice flour, then carefully remove the dutch oven and place the loaf in the pan, seam-side down. Score the top of the load using a lame to allow the crust to expand, then cover and transfer to the oven. Immediately reduce the temperature to 230C. Bake for 20 minutes covered, then remove the lid and bake for another 20 minutes. The load is ready when the crust is a rich brown shade.
+12. Pre-heat the over 30 minutes before baking. Use a dutch over or other heavy, lidded pot, and heat to 260C or as close as you can get. Prepare a sheet of baking paper large enough to hold the loaf. Turn the loaf out on to the prepared sheet of baking paper, seam side down, then score the top using a lame to allow the crust to expand.
+
+13. Carefully remove the dutch oven and place the baking paper and loaf directly into the pan, then cover and transfer to the oven. Immediately reduce the temperature to 230C. Bake for 20 minutes covered, then remove the lid and bake for another 20 minutes. The load is ready when the crust is a rich brown shade.
 
 13. Move the bread to a cooling rack and wait 15-20 minutes before slicing.
