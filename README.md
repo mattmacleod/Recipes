@@ -20,6 +20,7 @@ Please enjoy!
   - [Italian-style Bakewell tart](./Cakes%20and%20baking/Italian-style%20Bakewell%20tart.md)
   - [Cinnamon rolls](./Cakes%20and%20baking/Cinnamon%20rolls.md)
   - [Sausage rolls](./Cakes%20and%20baking/Sausage%20Rolls.md)
+  - [Japanese Pancakes](./Cakes%20and%20baking/Japanese%20Pancakes.md)
 - Desserts and puddings
   - [Christmas pudding](./Desserts%20and%20puddings/Christmas%20pudding.md)
   - [Chocolate pudding](./Desserts%20and%20puddings/Chocolate%20pudding.md)
