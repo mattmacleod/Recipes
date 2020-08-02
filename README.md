@@ -15,6 +15,7 @@ Please enjoy!
   - [Pretzels](./Breads/Pretzels.md)
   - [Sourdough](./Breads/Sourdough.md)
   - [Sourdough Pizza Bases](./Breads/Sourdough%20Pizza%20Bases.md)
+  - [Pide](./Breads/Pide.md)
 - Cakes and baking
   - [Gluten-free chocolate brownies](./Cakes%20and%20baking/Gluten-free%20chocolate%20brownies.md)
   - [Italian-style Bakewell tart](./Cakes%20and%20baking/Italian-style%20Bakewell%20tart.md)
