@@ -40,6 +40,7 @@ Please enjoy!
   - [Sesame Chicken](./Mains/Sesame%20Chicken.md)
   - [Fried Chicken](./Mains/Fried%20Chicken.md)
   - [Spätzle (auf Deutsch)](./Mains/Spätzle.md)
+  - [Pasta Puttanesca.md](./Mains/Pasta%20Puttanesca.md)
 - Misc
   - [Flour Tortillas](./Misc/Flour%20Tortillas.md)
   - [Flaky Pastry](./Misc/Flaky%20Pastry.md)
