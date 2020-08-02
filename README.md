@@ -37,7 +37,8 @@ Please enjoy!
   - [Fried Seitan](./Mains/Fried%20Seitan.md)
   - [Giant Meatballs](./Mains/Giant%20Meatballs.md)
   - [Gujarati Makai Sabji](./Mains/Gujarati%20Makai%20Sabji.md)
-  - [Sessame Chicken](./Mains/Sessame%20Chicken.md)
+  - [Sesame Chicken](./Mains/Sesame%20Chicken.md)
+  - [Fried Chicken](./Mains/Fried%20Chicken.md)
 - Misc
   - [Flour Tortillas](./Misc/Flour%20Tortillas.md)
   - [Flaky Pastry](./Misc/Flaky%20Pastry.md)
